@@ -1,4 +1,11 @@
-### Hi there 👋
+# Pierre-Henri Lavigne
+# ピエールランリ・ラヴィン
+
+## 👋 Enchanté, I'm Pierre-Henri aka Peter - よろしくどうぞ
+
+French web professional relocated to Japan,  
+I've been coding interfaces for all kind of devices.  
+Specialized in fine-tuned Wordpress based solutions.
 
 <!--
 **peter-power-594/peter-power-594** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
