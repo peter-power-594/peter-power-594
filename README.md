@@ -1,5 +1,4 @@
-# Pierre-Henri Lavigne
-# ピエールランリ・ラヴィン
+# Pierre-Henri Lavigne <br> ピエールランリ・ラヴィン
 
 ## 👋 Enchanté, I'm Pierre-Henri aka Peter - よろしくどうぞ
 
