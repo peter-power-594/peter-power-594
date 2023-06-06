@@ -1,10 +1,8 @@
-# Pierre-Henri Lavigne <br> ピエールランリ・ラヴィン
+# 👋 Enchanté, I'm Pierre-Henri aka Peter - よろしくどうぞ
+French web professional relocated to Japan, I've been coding interfaces for all kind of devices.  
+Specialized in fine-tuned Wordpress based solutions, author of the Markup Markdown plugin.
 
-## 👋 Enchanté, I'm Pierre-Henri aka Peter - よろしくどうぞ
-
-French web professional relocated to Japan,  
-I've been coding interfaces for all kind of devices.  
-Specialized in fine-tuned Wordpress based solutions.
+[![](https://github-readme-stats.vercel.app/api?username=peter-power-594&show_icons=true&hide_title=true&theme=transparent&count_private=true&hide_border=true)](https://github.com/peter-power-594)
 
 <!--
 **peter-power-594/peter-power-594** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
