@@ -4,6 +4,7 @@ Expert in creating fine-tuned Wordpress based solutions, author of the Markup Ma
 
 [![](https://github-stats.phutu.red/api?username=peter-power-594&show_icons=true&hide_title=true&theme=transparent&count_private=true&hide_border=true&final=2345&ver=20230908)](https://github.com/peter-power-594)[![](https://github-stats.phutu.red/api/top-langs/?username=peter-power-594&layout=compact&theme=transparent&hide_border=true&ver=20230908)](https://github.com/peter-power-594)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=peter-power-594&theme=onedark&margin-w=15&rank=SSS,SS,S,AAA,AA,A,B)
 <!--
 **peter-power-594/peter-power-594** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
